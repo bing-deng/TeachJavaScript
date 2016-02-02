@@ -1,0 +1,13 @@
+a = "12";// 赋值号
+a == 12; // true 比较值  等号
+a === 12; // false 比较值和类型  type and value
+
+
+a = 12;
+a !== 11; // true 不等
+
+a = true;
+!a; // false 取非
+
+a = 0;
+!!a; // false
